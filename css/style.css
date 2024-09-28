@@ -1,0 +1,12 @@
+table {
+    border-spacing: 10px;
+  }
+
+td {
+    width: 30px;
+    padding: 10px;
+    text-align: center;
+    background-color: lightskyblue;
+    border-color: grey;
+    border-style: solid;
+}
